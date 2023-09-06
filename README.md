@@ -4,6 +4,8 @@ Bash shell scripting
 
 Here is the topics
 
-Printing echo commands
+Printing echo command
 
 variables
+Functions
+Tables
