@@ -4,4 +4,4 @@ Bash shell scripting
 
 Here is the topics
 
-Printing commands 
+Printing echo commands 
