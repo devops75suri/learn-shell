@@ -6,4 +6,4 @@ Here is the topics
 
 Printing echo commands
 
-variable
+variables
