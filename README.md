@@ -7,5 +7,7 @@ Here is the topics
 Printing echo command
 
 variables
+
 Functions
+
 Tables
