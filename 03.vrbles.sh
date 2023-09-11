@@ -14,3 +14,7 @@ name=devops
 #how to access variables
 
 echo value of a = $a
+echo x = $x
+echo y = $y
+echo z = $z
+echo name = $name
