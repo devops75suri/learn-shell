@@ -16,11 +16,11 @@ echo hai surendra how is going clas
 # \e[0m - ti disable the color or end the color
 
 
-echo -e "\e[31mRED COLOR\e[0m"
-echo -e "\e[32mGREEN COLOR\e[0m"
-echo -e "\e[33mYELLOW COLOR\e[0m"
-echo -e "\e[34mBLUE COLOR\e[0m"
-echo -e "\e[35mMAGEMTA COLOR\e[0m"
-echo -e "\e[36mCYAN COLOR\e[0m"
+echo -e "\e[31m(hai surendra how is going clas)RED COLOR\e[0m"
+echo -e "\e[32m(hai surendra how is going clas)GREEN COLOR\e[0m"
+echo -e "\e[33m(hai surendra how is going clas)YELLOW COLOR\e[0m"
+echo -e "\e[34m(hai surendra how is going clas)BLUE COLOR\e[0m"
+echo -e "\e[35m(hai surendra how is going clas)MAGEMTA COLOR\e[0m"
+echo -e "\e[36m(hai surendra how is going clas)CYAN COLOR\e[0m"
 
 
