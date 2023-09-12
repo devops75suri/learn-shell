@@ -5,4 +5,3 @@ echo second argument $2
 echo all argument $*
 echo all argument $#
 echo all argument $@
-echo no of argument $?
