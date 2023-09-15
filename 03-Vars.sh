@@ -13,3 +13,5 @@ name=devops
 
 echo value of a = $a
 
+echo value of b=$b
+echo valve of name=$name
