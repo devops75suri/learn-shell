@@ -1,7 +1,10 @@
+#if we assign name to commands then it is function
 #Declar a function
 
-abc(){
+abc(){ #abc is function
   echo hello world
+  echo hello devops
+  echo hello batch 75
 }
 
 # how to access a function
