@@ -1,4 +1,4 @@
-#if we give name some data we will that variable
+#if we give name some data we will call that variable
 
 #syntax delcar
 #var_name = data
